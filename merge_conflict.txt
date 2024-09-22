@@ -1,2 +1,3 @@
 Handling merge conflicts
 
+Using the same file you modified on the first activity, create another change that will obviously conflict with the original change. Save the file, then add and commit your change.
